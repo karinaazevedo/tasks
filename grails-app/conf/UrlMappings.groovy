@@ -13,7 +13,11 @@ class UrlMappings {
             }
         }
 
+<<<<<<< HEAD
         "/"(controller:"Task")
+=======
+        "/"(controller:"task")
+>>>>>>> origin/master
         "500"(view:'/error')
 	}
 }
