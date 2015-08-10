@@ -13,7 +13,7 @@ class UrlMappings {
             }
         }
 
-        "/"(controller:"Task")
+        "/"(controller:"task")
         "500"(view:'/error')
 	}
 }
